@@ -7,7 +7,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 # 🎯 প্রজেক্টের নাম নির্ধারণ করা হচ্ছে
-project_name = "mlProject"
+project_name = "demo_project"
 
 # 📂 যেসব ফাইল ও ফোল্ডার তৈরি করতে হবে, সেগুলোর লিস্ট
 list_of_files = [
